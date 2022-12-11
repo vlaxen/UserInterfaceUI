@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">UserInterfaceUI</string>
+    <string name="password">Password</string>
+    <string name="hello">Hello!!!</string>
+    <string name="click">Enter</string>
+    <string name="fab_content_desc">Add</string>
+    <string name="login_name">Name</string>
+    <string name="login_password">Password</string>
+</resources>
